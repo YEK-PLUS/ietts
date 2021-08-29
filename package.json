@@ -1,0 +1,36 @@
+{
+  "name": "@yek-plus/ietts",
+  "version": "1.0.0",
+  "description": "IETTS connector",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YEK-PLUS/ietts.git"
+  },
+  "keywords": [
+    "ietts"
+  ],
+  "author": "YEK-PLUS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YEK-PLUS/ietts/issues"
+  },
+  "homepage": "https://github.com/YEK-PLUS/ietts#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  },
+  "dependencies": {
+    "html-entities": "^2.3.2",
+    "html2json": "^1.0.2",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
