@@ -1,6 +1,6 @@
 {
   "name": "@yek-plus/ietts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IETTS connector",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "ietts"
   ],
   "author": "YEK-PLUS",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/YEK-PLUS/ietts/issues"
   },

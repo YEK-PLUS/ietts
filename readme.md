@@ -32,7 +32,7 @@ ietts().get({ iettsNo: 3700001 }).then(console.log);
 ### Response
 
 ```js
-{
+const response = {
   status: Boolean,
   error: String,
   doc: {
